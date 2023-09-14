@@ -1,0 +1,7 @@
+2023/09/04-18:19:57.485 3eb0 Reusing MANIFEST F:/UE/Проекты/share/My_Ambiguity_NEW/My_Ambiguity_NEW/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/04-18:19:57.505 3eb0 Recovering log #3
+2023/09/04-18:19:57.505 3eb0 Reusing old log F:/UE/Проекты/share/My_Ambiguity_NEW/My_Ambiguity_NEW/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2023/09/04-18:21:03.241 1b88 Level-0 table #5: started
+2023/09/04-18:21:03.307 1b88 Level-0 table #5: 1167 bytes OK
+2023/09/04-18:21:03.329 1b88 Delete type=0 #3
+2023/09/04-18:21:03.329 1b88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,18 @@
+[0904/181803.640:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[0904/181821.247:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0904/181821.256:ERROR:entry_impl.cc(1075)] No file for c1030000
+[0904/181821.256:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.256:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.256:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.256:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.256:ERROR:entry_impl.cc(1075)] No file for c1030002
+[0904/181821.257:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.257:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.257:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.257:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.257:ERROR:entry_impl.cc(1075)] No file for c1030004
+[0904/181821.258:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.258:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181821.258:WARNING:storage_block-inl.h(146)] Failed data load.
+[0904/181956.632:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 123
+[0904/182004.852:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

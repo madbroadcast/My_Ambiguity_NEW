@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40507904-e955-4a25-91a1-286c638344b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/Текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-1A5718C64F97978BA320F28E1087069D/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-32B5D7904C43A04E4618C8841376997A/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.08.29-17.29.25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.08.29-17.31.41.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.09.06-14.24.20.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.09.06-14.30.26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.09.07-04.05.56.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/Main.umap" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/Main.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/Megascans/3D_Plants/Dragon_Tree_wfypejzha/MI_Dragon_Tree_wfypejzha_2K.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/Megascans/3D_Plants/Dragon_Tree_wfypejzha/MI_Dragon_Tree_wfypejzha_2K.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/Megascans/3D_Plants/Leptadenia_xdkgfgtqx/Foliage/FT_Leptadenia_xdkgfgtqx_Var2_lod1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Content/Megascans/3D_Plants/Leptadenia_xdkgfgtqx/Foliage/FT_Leptadenia_xdkgfgtqx_Var2_lod1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Intermediate/ReimportCache/3688439234.bin" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Intermediate/ReimportCache/3688439234.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Autosaves/Game/Main_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Autosaves/Game/Main_Auto1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Autosaves/Game/Megascans/3D_Plants/Leptadenia_xdkgfgtqx/Foliage/FT_Leptadenia_xdkgfgtqx_Var2_lod1_Auto1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-094273974F21C91EBC687FB6AA5DE59C/CrashReportClient.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-094273974F21C91EBC687FB6AA5DE59C/CrashReportClient.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B/CrashReportClient.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B/CrashReportClient.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-C7CBC7C94C5B89017D5CF8A3F1376A07/CrashReportClient.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-C7CBC7C94C5B89017D5CF8A3F1376A07/CrashReportClient.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-D254228849AC2428367423A9D05AAF68/CrashReportClient.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-D254228849AC2428367423A9D05AAF68/CrashReportClient.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B_0000/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B_0000/CrashReportClient.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-07B545114358507D78F5DD886B87BDF4/CrashReportClient.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B_0000/My_Ambiguity_NEW.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B_0000/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B_0001/CrashContext.runtime-xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B_0001/CrashReportClient.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Config/CrashReportClient/UECC-Windows-13B211D343C413A6D4A31C84D06A2A9D/CrashReportClient.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B_0001/My_Ambiguity_NEW.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-55036A58453267C0F353D2BE2C00CC9B_0001/UEMinidump.dmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-A6EF2E24494B05BD2CA8B3B440E1DD01_0000/CrashReportClient.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-A6EF2E24494B05BD2CA8B3B440E1DD01_0000/CrashReportClient.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-E92D0D8D4A8E053EEE2E27ACA16D93C6_0000/CrashReportClient.ini" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Crashes/UECC-Windows-E92D0D8D4A8E053EEE2E27ACA16D93C6_0000/CrashReportClient.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.08.28-16.51.11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.08.29-17.22.50.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.09.07-04.09.16.log" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW-backup-2023.09.07-04.09.16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW.log" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/Logs/My_Ambiguity_NEW.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/My_Ambiguity_NEW/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40507904-e955-4a25-91a1-286c638344b0" name="Changes" comment="" />
+      <created>1694756624213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694756624213</updated>
+    </task>
+    <servers />
+  </component>
+</project>
